@@ -1,0 +1,53 @@
+#fejlec {
+width: 100%;
+top: 205px;
+background-image: url('kepek/fejlec.jpg');
+background-repeat: no-repeat;
+background-position: center;
+}
+
+#menu a, #menu a:active, #menu a:visited, #menu a:link, footer a{
+color: white;
+}
+
+h1 {
+width: 25%;
+text-align: center;
+background-color: white;
+margin: 40px auto;
+text-size-adjust: 24px;
+font-family: 'Pacifico', cursive;
+}
+
+#tablazat {
+background-color: #cac6c1;
+}
+
+#szek2 {
+background-position: center;
+background: white;
+}
+
+#kepek {
+background: darkgray;
+}
+          
+#szek1 {
+background: white;
+}
+
+ #szek3 {
+background: white;
+}
+
+#kepek {
+background: darkgray;
+}
+
+h2 {
+font-family: 'Pacifico', cursive;
+}       
+
+h3 {
+font-family: 'Pacifico', cursive;
+}
